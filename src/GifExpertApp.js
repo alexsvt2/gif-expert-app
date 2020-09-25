@@ -7,14 +7,7 @@ export const GifExpertApp = () => {
 
   const [categories, setCategories] = useState([
     "One Punch",
-    // "Samurai X",
-    // "Dragon Ball",
   ]);
-
-  // const handleAdd = (e) => {
-  //   // setCategories([...categories, "Batman"]); // Forma 1
-  //   setCategories((cats) => [...cats, "Batman"]);
-  // };
 
   return (
     <>
